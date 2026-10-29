@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://joaodalseno.github.io/sitemap.xml
+Sitemap: https://joaovd.github.io/sitemap.xml
